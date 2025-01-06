@@ -9,7 +9,8 @@ Currently, two official plugins are available:
 
 
 
-A simple guide about signing in and signing up
+
+                                                           A SIMPLE GUIDE ON AUTHENTICATION AND AUTHORIZATION
 
 You can signup here
 
