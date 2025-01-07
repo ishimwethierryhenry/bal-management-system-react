@@ -8,9 +8,34 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+                                                                     **WEBTECHNOLOGY FINAL PROJECT**
+
+                                                      **Project Name:BASKETBALL AFRICA LEAGUE [BAL] Management System**
 
 
-                                                           A SIMPLE GUIDE ON AUTHENTICATION AND AUTHORIZATION
+IDENTIFICATIONS OF THE DEVELOPPER/STUDENT;
+
+
+NAMES:ISHIMWE Thierry Henry
+ID:25319
+Group:E(SUNDAY, 2pm)
+
+
+LINK TO THE HOSTED WEBSITE:http://ec2-13-60-50-63.eu-north-1.compute.amazonaws.com:3000/
+
+NOTES:
+
+1.Please make sure to follow that link [http://ec2-13-60-50-63.eu-north-1.compute.amazonaws.com:3000/] and not [https://ec2-13-60-50-63.eu-north-1.compute.amazonaws.com:3000/] because I do not have SSL/TLS Certificate for my web-app.So, it is highly recommended to use http://ec2-13-60-50-63.eu-north-1.compute.amazonaws.com:3000/ as I ensure you there is no vulnerabilities on my Web-App
+
+2.It's highly recommended to use PC/Tablets[IPads] for better responsiveness and performance as well more than mobile devices can do!
+
+3.You can support me via my social platforms found here on my GitHub profile!
+
+4.Inputs and advices are mostly welcomed!
+
+
+
+                                                           A SIMPLE GUIDE ON AUTHENTICATION AND AUTHORIZATION TO THE APP
 
 You can signup here
 
