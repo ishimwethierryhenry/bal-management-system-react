@@ -13,15 +13,24 @@ Currently, two official plugins are available:
                                                       **Project Name:BASKETBALL AFRICA LEAGUE [BAL] Management System**
 
 
-IDENTIFICATIONS OF THE DEVELOPPER/STUDENT;
+                                                                IDENTIFICATIONS OF THE DEVELOPPER/STUDENT;
+
 
 
 NAMES:ISHIMWE Thierry Henry
+
 ID:25319
+
 Group:E(SUNDAY, 2pm)
+
+AUCA-GISHUSHU
+
+Information-Technology(IT)-Software Engineering
+
 
 
 LINK TO THE HOSTED WEBSITE:http://ec2-13-60-50-63.eu-north-1.compute.amazonaws.com:3000/
+
 
 NOTES:
 
@@ -39,12 +48,12 @@ NOTES:
 
                                                            A SIMPLE GUIDE ON AUTHENTICATION AND AUTHORIZATION TO THE APP
 
-You can signup here
+#You can signup here
 
 ![image](https://github.com/user-attachments/assets/ec1c2982-24bc-4c35-95d1-c31399a58c99)
 ![image](https://github.com/user-attachments/assets/e0cd171c-3f0d-410c-ae42-edcd5227a998)
 
-And Login here
+#And Login here
 
 ![image](https://github.com/user-attachments/assets/c29416b6-016f-41eb-af0b-848cbcf60d4e)
 
