@@ -25,7 +25,9 @@ LINK TO THE HOSTED WEBSITE:http://ec2-13-60-50-63.eu-north-1.compute.amazonaws.c
 
 NOTES:
 
-1.Please make sure to follow that link [http://ec2-13-60-50-63.eu-north-1.compute.amazonaws.com:3000/] and not [https://ec2-13-60-50-63.eu-north-1.compute.amazonaws.com:3000/] because I do not have SSL/TLS Certificate for my web-app.So, it is highly recommended to use http://ec2-13-60-50-63.eu-north-1.compute.amazonaws.com:3000/ as I ensure you there is no vulnerabilities on my Web-App
+1.Please make sure to follow that link [http://ec2-13-60-50-63.eu-north-1.compute.amazonaws.com:3000/] and not [https://ec2-13-60-50-63.eu-north-1.compute.amazonaws.com:3000/] because I do not have SSL/TLS Certificate for my web-app[but,still applying for it].So, it is highly recommended to use http://ec2-13-60-50-63.eu-north-1.compute.amazonaws.com:3000/ as I ensure you there is no vulnerabilities on my Web-App
+
+=>Henceforth, beware that the web browser by default can add an 's' to the 'http' to apply security policies.Please, in that case,make sure to edit the link from the url in the browser to adhere to the initial link and hit enter.
 
 2.It's highly recommended to use PC/Tablets[IPads] for better responsiveness and performance as well more than mobile devices can do!
 
